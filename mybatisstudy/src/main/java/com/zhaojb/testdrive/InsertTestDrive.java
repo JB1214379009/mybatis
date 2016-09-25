@@ -10,7 +10,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 
 import com.zhaojb.bean.User;
 
-public class InsertTestDrive {
+public class InsertTestDrive { 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
